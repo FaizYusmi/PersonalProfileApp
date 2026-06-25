@@ -2,18 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/PersonalProfileApp/src/java/servlet/SearchProfileServlet.java</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/PersonalProfileApp/web/searchProfile.jsp</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/PersonalProfileApp/web/profile.jsp</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/PersonalProfileApp/src/java/servlet/ViewProfilesServlet.java</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/PersonalProfileApp/web/style.css</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/PersonalProfileApp/src/java/servlet/ProfileServlet.java</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/PersonalProfileApp/src/java/bean/ProfileBean.java</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/PersonalProfileApp/web/viewProfiles.jsp</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/PersonalProfileApp/src/java/util/DBConnection.java</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/PersonalProfileApp/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/user/Documents/NetBeansProjects/PersonalProfileApp/web/index.jsp</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
